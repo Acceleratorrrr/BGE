@@ -242,6 +242,21 @@
     <ClCompile Include="Test.cpp">
       <Filter>Assignment</Filter>
     </ClCompile>
+    <ClCompile Include="Bird.cpp">
+      <Filter>Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="Horse.cpp">
+      <Filter>Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="HorseFactory.cpp">
+      <Filter>Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="BirdFactory.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Demo.cpp">
+      <Filter>Assignment</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Camera.h">
@@ -434,6 +449,19 @@
       <Filter>Assignment</Filter>
     </ClInclude>
     <ClInclude Include="AirHockeyFactory.h">
+      <Filter>Assignment</Filter>
+    </ClInclude>
+    <ClInclude Include="Bird.h">
+      <Filter>Assignment</Filter>
+    </ClInclude>
+    <ClInclude Include="Horse.h">
+      <Filter>Assignment</Filter>
+    </ClInclude>
+    <ClInclude Include="HorseFactory.h">
+      <Filter>Assignment</Filter>
+    </ClInclude>
+    <ClInclude Include="BirdFactory.h" />
+    <ClInclude Include="Demo.h">
       <Filter>Assignment</Filter>
     </ClInclude>
   </ItemGroup>
